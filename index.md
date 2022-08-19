@@ -7,3 +7,6 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 ```
+- [X] Start task list
+- [X] Preview formatting
+- [ ] Complete communicate using markdown section 
